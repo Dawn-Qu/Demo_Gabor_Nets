@@ -1,4 +1,4 @@
-# Demo_Gabor_Nets_PU
+# Demo_Gabor_Nets
 - Demo of Gabor-Nets for hyperspectral image classification
 
 - data: Pavia University
